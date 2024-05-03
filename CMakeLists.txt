@@ -11,6 +11,7 @@ set(SOURCES
 # Headers for library
 set(HEADERS
     include/ae2fLib/Dice/Dice.h
+    include/ae2fLib/Dice/Dice.hpp
 )
 
 # lib build set
